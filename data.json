@@ -1,3 +1,4 @@
+
 [{
     "name": "Colleen Melendez",
     "tags": ["communicability", "focus on results", "oratory"],
@@ -16,7 +17,7 @@
         "intervals": [{
             "start": "2016-10-03",
             "end": "2016-10-03",
-            "minutesPerDay": 100
+            "minutesPerDay": 180
         }],
         "fill": "#2274a5"
     }, {
